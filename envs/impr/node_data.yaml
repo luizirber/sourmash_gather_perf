@@ -1,0 +1,5 @@
+dependencies:
+ - python=3.6.5
+ - psutil
+ - pip:
+   - git+https://github.com/dib-lab/sourmash@impr/node_data

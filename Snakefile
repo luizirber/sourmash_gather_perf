@@ -7,6 +7,7 @@ rule all:
       expand("outputs/{branch}.profile",
              branch=['master',
                      'refactor/more_cython',
+                     'impr/node_data',
                      'feature/bf_query',
                      'refactor/rust_inspired'])
 
