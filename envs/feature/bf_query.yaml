@@ -1,0 +1,7 @@
+dependencies:
+ - python=3.6.5
+ - cython=0.28.4
+ - psutil
+ - pip:
+   - git+https://github.com/dib-lab/khmer@feature/nodegraph_distance#egg=khmer
+   - git+https://github.com/dib-lab/sourmash@feature/bf_query
