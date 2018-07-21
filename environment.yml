@@ -12,4 +12,4 @@ dependencies:
  - qgrid=1.1.1
  - seaborn=0.9.0
  - pip:
-   - git+https://github.com/ssanderson/pstats-view.git#egg=pstatsview
+   - git+https://github.com/luizirber/pstats-view.git@fix/qgrid_api#egg=pstatsview
